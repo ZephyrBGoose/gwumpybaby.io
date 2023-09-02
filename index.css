@@ -1,0 +1,76 @@
+*{
+    font-family: 'ADLaM Display', Arial, serif;
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background-color: blue;
+    color: white;
+}
+
+header {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: blue;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    margin: 0 auto;
+    align-content: center;
+}
+nav li {
+    display: inline-block;
+    width: 10rem;
+    margin: 1;
+    margin: 0 auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+main{
+    background-color: rgb(19, 11, 70);
+    color: lightblue;
+    width: 75%;
+    margin: 0 auto;
+    position: relative;
+    top: 10rem;
+    padding: 5% 10%;
+    font-size: 1rem;
+}
+
+
+.section-title {
+    text-align: center;
+    font-size: 3rem;
+}
+
+h3{
+    text-align: center;
+    font-size: 2rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+    width: 100%;
+    background-color: blue;
+    margin: 0 auto;
+    padding: 2rem;
+}
