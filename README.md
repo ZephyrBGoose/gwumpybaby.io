@@ -1,7 +1,9 @@
 # gwumpybaby.io
 A way to share organized script notes with collaborators
 
-This is a static site as a prototype for a future project.
+This is a static site as a prototype for a future project. 
+
+This static version is a prototype using a script where  the lead character is Gwumpy Baby, hence the name. 
 
 The final project will be a script organizing website, with easy to sort modules, that collaborators can access. 
 
