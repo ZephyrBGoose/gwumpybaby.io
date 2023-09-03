@@ -17,6 +17,4 @@ And hopefully streamline my tools and my thought processes to be significantly l
 This is my first step on that journey! 
 Thanks for being here with me <3
 
-Zephyr B. Goose (00< ~honk
-               <(  )>
-                 ^ ^
+Zephyr B. Goose 
